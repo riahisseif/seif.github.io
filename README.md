@@ -1,2 +1,2 @@
-# seif.github.io
+# seif.github
 ..
